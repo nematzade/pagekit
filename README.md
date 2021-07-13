@@ -30,7 +30,8 @@ Pagekit is a modular and lightweight CMS built with Symfony components and Vue.j
 
 1. Download the [latest release](https://www.pagekit.com/download).
 2. Extract the archive and copy the extracted folder to your webserver.
-3. Open the extracted url in your browser, i.e. `http://localhost/pagekit` and follow the installer.
+3. composer require doctrine/annotations
+4. Open the extracted url in your browser, i.e. `http://localhost/pagekit` and follow the installer.
 
 ## Install from source
 
